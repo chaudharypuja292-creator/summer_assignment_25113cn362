@@ -1,2 +1,13 @@
-# summer_assignment_25113cn362
-college summer assignment soultions in c++
+# Summer Assignment
+
+This repository contains my C++ summer assignment programs and practice questions.
+
+## Language Used
+- C++
+
+## Topics
+- Loops
+- Functions
+- Arrays
+- Patterns
+- DSA Basics
